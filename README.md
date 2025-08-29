@@ -275,9 +275,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Project Link**: [Repository URL]
-- **Email**: [Your Email]
+- **Author**: Ayush Singh 
+- **Project Link**: https://github.com/ayusingh-54/Bitcoin-Market-Sentiment/edit/main/README.md
+- **Email**: ayusingh693@gmail.com
 
 ## 🙏 Acknowledgments
 
